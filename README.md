@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Thino 👋
 
-<!--
-**thino-cloud/thino-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & AI learner building hands-on projects and documenting the journey.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently focusing on cloud infrastructure and artificial intelligence.
+
+Recently achieved:
+
+✔ Microsoft Azure Fundamentals (AZ-900)
+
+Next goal:
+
+Azure AI Fundamentals (AI-900)
+
+---
+
+## Current Focus
+
+☁ Microsoft Azure  
+🤖 Artificial Intelligence  
+⚙ Cloud Infrastructure  
+🧪 Hands-on Labs  
+
+---
+
+## Projects
+
+### thino.dev
+My personal tech blog documenting my cloud & AI learning journey.
+
+### Azure Homelab
+Hands-on Azure networking, VMs, and infrastructure labs.
+
+### Cloud Learning
+Experiments with Azure services such as monitoring, storage, and governance.
+
+### AI Learning
+Exploring Python and AI experiments.
+
+---
+
+## Tech Stack
+
+Cloud  
+Azure  
+Linux  
+Windows Server  
+
+Programming  
+Python  
+PowerShell  
+
+Infrastructure  
+Virtual Networks  
+VMs  
+Monitoring  
+
+---
+
+## Certifications
+
+✔ Microsoft Azure Fundamentals (AZ-900)
+
+Next:
+Azure AI Fundamentals (AI-900)
+
+---
+
+## Website
+
+🌐 https://thino.dev
