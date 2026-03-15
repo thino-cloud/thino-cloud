@@ -51,6 +51,12 @@ Azure AI Fundamentals (AI-900)
 
 ---
 
+## GitHub Stats
+
+![Thino's GitHub stats](https://github-readme-stats.vercel.app/api?username=thino-cloud&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thino-cloud&layout=compact&theme=tokyonight)
+
 ## Website
 
 🌐 https://thino.dev
