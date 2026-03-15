@@ -43,19 +43,11 @@ Exploring Python and AI experiments.
 
 ## Tech Stack
 
-Cloud  
-Azure  
-Linux  
-Windows Server  
-
-Programming  
-Python  
-PowerShell  
-
-Infrastructure  
-Virtual Networks  
-VMs  
-Monitoring  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-blue)
+![Python](https://img.shields.io/badge/Python-Programming-yellow)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue)
+![Linux](https://img.shields.io/badge/Linux-System-black)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
 
 ---
 
