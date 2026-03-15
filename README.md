@@ -1,18 +1,9 @@
 # Hi, I'm Thino 👋
 
-Cloud & AI learner building hands-on projects and documenting the journey.
+Cloud & AI enthusiast building hands-on projects and documenting my journey into cloud engineering and artificial intelligence.
 
-## About Me
-
-I’m currently focusing on cloud infrastructure and artificial intelligence.
-
-Recently achieved:
-
-✔ Microsoft Azure Fundamentals (AZ-900)
-
-Next goal:
-
-Azure AI Fundamentals (AI-900)
+✔ Microsoft Azure Fundamentals (AZ-900)  
+➡ Next goal: Azure AI Fundamentals (AI-900)
 
 ---
 
